@@ -1,0 +1,311 @@
+﻿Code,OI/LO/KUSP
+OI.1,Number: Numbers are organized into systems with unique notation to communicate quantities and to facilitate calculations.
+OI.1.GQ.1,How can the density of the number line contribute to a sense of number?
+OI.1.GQ.1.LO.1,Students interpret rational and irrational numbers.
+OI.1.GQ.1.LO.1.U.1,There are infinitely many rational numbers between any two rational numbers on the number line.
+OI.1.GQ.1.LO.1.U.1.K.1,The set of real numbers includes the sets of rational numbers and irrational numbers.
+OI.1.GQ.1.LO.1.U.1.K.2,"A rational number can be expressed as the quotient of two integers, a/b​ , where b≠0."
+OI.1.GQ.1.LO.1.U.1.K.3,Rational numbers are terminating or repeating decimal numbers.
+OI.1.GQ.1.LO.1.U.1.K.4,"A repeating decimal, represented with a segment over the repeating digit(s), is a decimal number that contains a digit or group of digits that repeat endlessly."
+OI.1.GQ.1.LO.1.U.1.K.5,The set of rational numbers includes the sets of natural numbers and integers.
+OI.1.GQ.1.LO.1.U.1.K.6,The conventional order of operations applies to operations on rational numbers.
+OI.1.GQ.1.LO.1.U.1.SP.1,Express rational numbers as fractions and decimal numbers.
+OI.1.GQ.1.LO.1.U.1.SP.2,"Classify natural numbers, integers, and rational numbers."
+OI.1.GQ.1.LO.1.U.1.SP.3,Relate a rational number to its position on the number line.
+OI.1.GQ.1.LO.1.U.1.SP.4,Compare and order rational numbers.
+OI.1.GQ.1.LO.1.U.1.SP.5,Determine a rational number between any two given rational numbers.
+OI.1.GQ.1.LO.1.U.1.SP.6,Investigate fractions that result in repeating decimals.
+OI.1.GQ.1.LO.1.U.1.SP.7,"Add, subtract, multiply, and divide any two rational numbers."
+OI.1.GQ.1.LO.1.U.1.SP.8,"Assess the reasonableness of a sum, difference, product, or quotient, using estimation."
+OI.1.GQ.1.LO.1.U.1.SP.9,Evaluate numerical expressions involving rational numbers according to the order of operations.
+OI.1.GQ.1.LO.1.U.1.SP.10,Solve problems involving rational numbers in real-world situations.
+OI.1.GQ.1.LO.1.U.2,Irrational numbers fill the gaps between rational numbers on the number line.
+OI.1.GQ.1.LO.1.U.2.K.1,An irrational number is a real number that is not rational.
+OI.1.GQ.1.LO.1.U.2.K.2,"An irrational number cannot be expressed as the quotient of two integers, a/b​."
+OI.1.GQ.1.LO.1.U.2.K.3,"Irrational numbers are non-terminating, non-repeating decimal numbers."
+OI.1.GQ.1.LO.1.U.2.K.4,The approximate value of an irrational number can be expressed by using a rounded decimal number.
+OI.1.GQ.1.LO.1.U.2.K.5,"An irrational number can be expressed as an exact value, such as √2​ or π."
+OI.1.GQ.1.LO.1.U.2.SP.1,Distinguish between rational numbers and irrational numbers.
+OI.1.GQ.1.LO.1.U.2.SP.2,Classify the expression of an irrational number as exact or approximate.
+OI.1.GQ.1.LO.1.U.2.SP.3,Approximate an irrational number as a rounded decimal.
+OI.1.GQ.1.LO.1.U.2.SP.4,Express an irrational number as an exact value.
+OI.1.GQ.1.LO.1.U.2.SP.5,Relate an irrational number to its approximate position on the number line.
+OI.1.GQ.1.LO.1.U.2.SP.6,Compare and order real numbers.
+OI.1.GQ.2,In what ways can rational and irrational numbers support interpretation of roots and powers?
+OI.1.GQ.2.LO.2,Students interpret square roots of perfect and non-perfect squares.
+OI.1.GQ.2.LO.2.U.1,Square roots can be explained with rational numbers and irrational numbers.
+OI.1.GQ.2.LO.2.U.1.K.1,A non-perfect square is the product of two identical irrational numbers.
+OI.1.GQ.2.LO.2.U.1.K.2,"Every positive real number has exactly two square roots, one positive and one negative."
+OI.1.GQ.2.LO.2.U.1.K.3,Zero is the only real number that has exactly one square root.
+OI.1.GQ.2.LO.2.U.1.K.4,Negative real numbers do not have square roots that are real numbers.
+OI.1.GQ.2.LO.2.U.1.K.5,"The equation 𝑥2 = 𝑎 has two solutions, √𝑎 and – √𝑎​."
+OI.1.GQ.2.LO.2.U.1.K.6,"The radical sign, √□​, is the conventional notation that indicates the positive square root (principal square root) of a number."
+OI.1.GQ.2.LO.2.U.1.K.7,"The radical sign with a negative sign in front, −√□, indicates the negative square root of a number (secondary square root)."
+OI.1.GQ.2.LO.2.U.1.K.8,The notation 𝓍 = ±√𝑎​ indicates 𝑥 = +√𝑎​  or 𝑥 = −√𝑎​.
+OI.1.GQ.2.LO.2.U.1.K.9,"The radical sign is used to express the exact value of a square root of a non-perfect square, e.g., √2​."
+OI.1.GQ.2.LO.2.U.1.K.10,A rounded decimal number can express the approximate value of a square root.
+OI.1.GQ.2.LO.2.U.1.K.11,The approximate value of a square root of a non-perfect square can be determined by using perfect squares as benchmarks.
+OI.1.GQ.2.LO.2.U.1.K.12,"A non-perfect square can be represented by the area of a square, while side length can be expressed as an approximate or exact value."
+OI.1.GQ.2.LO.2.U.1.SP.1,Classify positive rational numbers as perfect squares or non-perfect squares.
+OI.1.GQ.2.LO.2.U.1.SP.2,Express perfect and non-perfect squares as repeated multiplication and as powers.
+OI.1.GQ.2.LO.2.U.1.SP.3,"Justify the number of square roots of real numbers, including zero."
+OI.1.GQ.2.LO.2.U.1.SP.4,"Approximate the square roots of non-perfect squares, within 144."
+OI.1.GQ.2.LO.2.U.1.SP.5,"Determine the area of a square, given the side length."
+OI.1.GQ.2.LO.2.U.1.SP.6,"Determine the side length of a square, given its area."
+OI.1.GQ.2.LO.2.U.1.SP.7,Solve problems involving perimeter and area of squares.
+OI.1.GQ.3,How can proportional reasoning support problem solving?
+OI.1.GQ.3.LO.3,Students analyze multiplicative relationships within ratios.
+OI.1.GQ.3.LO.3.U.1,A ratio can be interpreted as a multiplicative comparison.
+OI.1.GQ.3.LO.3.U.1.K.1,A multiplicative comparison describes the multiplicative relationship between one quantity and another.
+OI.1.GQ.3.LO.3.U.1.K.2,Either of the quantities in a multiplicative comparison can be described as a multiple of the other.
+OI.1.GQ.3.LO.3.U.1.K.3,"The factor that relates two quantities in a ratio is the constant of proportionality, k."
+OI.1.GQ.3.LO.3.U.1.K.4,"When quantity aa in ratio a:ba:b is directly proportional to quantity b, k = a/b​."
+OI.1.GQ.3.LO.3.U.1.K.5,"When quantity aa in ratio a : b is inversely proportional to quantity b, k = ab."
+OI.1.GQ.3.LO.3.U.1.K.6,"A constant of proportionality can be expressed as a decimal number and a ratio, and is the same for any equivalent ratios."
+OI.1.GQ.3.LO.3.U.1.K.7,"A constant of proportionality can be referred to by various names, depending on the context, including
+- slope
+- unit rate
+- scale factor"
+OI.1.GQ.3.LO.3.U.1.SP.1,Describe one quantity in a ratio as a multiple of the other.
+OI.1.GQ.3.LO.3.U.1.SP.2,Determine the constant of proportionality for a given ratio.
+OI.1.GQ.3.LO.3.U.1.SP.3,Generate equivalent ratios for a given constant of proportionality.
+OI.1.GQ.3.LO.3.U.1.SP.4,"Determine the missing quantity in a ratio, given the constant of proportionality."
+OI.1.GQ.3.LO.3.U.1.SP.5,"Solve problems that involve quantities related by a constant of proportionality, including in real-world situations."
+OI.2,"Algebra: Generalizing arithmetic with expressions, equations, and inequalities supports problem solving in real-world situations."
+OI.2.GQ.4,How can powers be generalized?
+OI.2.GQ.4.LO.4,Students interpret powers in single-variable algebraic terms.
+OI.2.GQ.4.LO.4.U.1,"A polynomial is built by using operations of addition, subtraction, and multiplication."
+OI.2.GQ.4.LO.4.U.1.K.1,An algebraic term is the product of a coefficient and a power.
+OI.2.GQ.4.LO.4.U.1.K.2,An algebraic term is also called a monomial.
+OI.2.GQ.4.LO.4.U.1.K.3,"A polynomial is the sum of monomials in which
+- the coefficients are real numbers
+- the exponent of the variable in each term is a natural number"
+OI.2.GQ.4.LO.4.U.1.K.4,A power of a variable represents a product of several copies of the variable.
+OI.2.GQ.4.LO.4.U.1.K.5,"The conventional representation of an algebraic term with a coefficient of one is a variable without a coefficient, e.g., 1𝑥2 = 𝑥2."
+OI.2.GQ.4.LO.4.U.1.K.6,"The conventional representation of a linear term is a term without the exponent, e.g., 𝑥1 = 𝑥."
+OI.2.GQ.4.LO.4.U.1.K.7,"The conventional representation of a constant term is a number without a variable, e.g., 5𝑥0 = 5."
+OI.2.GQ.4.LO.4.U.1.K.8,"Polynomials can be classified according to the number of algebraic terms, i.e.,
+- Monomials have one term.
+- Binomials have two terms.
+- Trinomials have three terms."
+OI.2.GQ.4.LO.4.U.1.K.9,"The value of the exponent in an algebraic term is called the degree of the algebraic term, e.g., 𝑥2 has a degree of 2."
+OI.2.GQ.4.LO.4.U.1.K.10,The degree of a polynomial is the greatest degree of any of its algebraic terms.
+OI.2.GQ.4.LO.4.U.1.K.11,"Polynomials can be named according to degree, i.e.,
+- Degree of 1 is linear.
+- Degree of 2 is quadratic.
+- Degree of 3 is cubic.
+- Degree of n is a polynomial."
+OI.2.GQ.4.LO.4.U.1.K.12,A constant term is equivalent to an algebraic term that has a degree of zero.
+OI.2.GQ.4.LO.4.U.1.K.13,Algebraic terms with the same variable and the same degree are like terms.
+OI.2.GQ.4.LO.4.U.1.K.14,The conventional representation of a polynomial is writing algebraic terms in descending order of degree.
+OI.2.GQ.4.LO.4.U.1.K.15,Adding and subtracting polynomials involves combining like terms.
+OI.2.GQ.4.LO.4.U.1.K.16,Subtracting a polynomial is the same as adding its additive inverse.
+OI.2.GQ.4.LO.4.U.1.SP.1,Express an algebraic term as multiplication of a coefficient and variable factors and vice versa.
+OI.2.GQ.4.LO.4.U.1.SP.2,Justify that an algebraic expression is a polynomial.
+OI.2.GQ.4.LO.4.U.1.SP.3,"Express algebraic terms, using conventional representations."
+OI.2.GQ.4.LO.4.U.1.SP.4,Classify a polynomial according to number of terms.
+OI.2.GQ.4.LO.4.U.1.SP.5,Relate the value of the exponent in an algebraic term to the degree of the algebraic term.
+OI.2.GQ.4.LO.4.U.1.SP.6,Name algebraic terms according to degree.
+OI.2.GQ.4.LO.4.U.1.SP.7,Determine the degree of a polynomial.
+OI.2.GQ.4.LO.4.U.1.SP.8,Express a polynomial with terms in descending or ascending order according to degree.
+OI.2.GQ.4.LO.4.U.1.SP.9,Add and subtract monomials by combining like terms.
+OI.2.GQ.5,In what ways can flexibility with numbers facilitate the process of solving equations?
+OI.2.GQ.5.LO.5,Students solve single-variable linear equations involving rational numbers.
+OI.2.GQ.5.LO.5.U.1,Any factor or multiple of an equation is an equivalent equation.
+OI.2.GQ.5.LO.5.U.1.K.1,Multiplying or dividing both sides of an equation by the same number results in an equivalent equation.
+OI.2.GQ.5.LO.5.U.1.K.2,"An equation including rational numbers can be expressed as an equivalent equation with integers, e.g., (1/2)𝑥 + 3 = 5  can be expressed as 𝑥 + 6 = 10."
+OI.2.GQ.5.LO.5.U.1.SP.1,Express an equation with rational coefficients as an equivalent equation with integers.
+OI.2.GQ.5.LO.5.U.1.SP.2,Solve equations with rational coefficients.
+OI.2.GQ.5.LO.5.U.1.SP.3,"Solve problems, using equations with rational coefficients."
+OI.2.GQ.5.LO.5.U.1.SP.4,"Solve linear equations, including with parentheses and variables on both sides of the equation."
+OI.2.GQ.6,In what ways can multiple values be generalized?
+OI.2.GQ.6.LO.6,Students interpret inequalities.
+OI.2.GQ.6.LO.6.U.1,An inequality can describe the unequal relationship between all possible values of a variable and a number.
+OI.2.GQ.6.LO.6.U.1.K.1,"An inequality is a relation that represents a comparison of two numbers or expressions, which may include a variable."
+OI.2.GQ.6.LO.6.U.1.K.2,The solution of an inequality is a range of values that satisfies the inequality.
+OI.2.GQ.6.LO.6.U.1.K.3,An inequality can be expressed by using words or symbols.
+OI.2.GQ.6.LO.6.U.1.K.4,"A strict inequality describes values as “less than,” <, or “greater than,” >, a given number."
+OI.2.GQ.6.LO.6.U.1.K.5,"A non-strict inequality describes values as “less than or equal to,” ≤, or “greater than or equal to,” ≥, a given number, i.e., 𝑥 ≥ 𝑎, indicates 𝑥 > 𝑎 or 𝑥 = 𝑎."
+OI.2.GQ.6.LO.6.U.1.K.6,An inequality can be modelled on the number line by using a ray extending to the right for values greater than and to the left for values less than the given number.
+OI.2.GQ.6.LO.6.U.1.K.7,"On the number line, the given number is indicated with an open dot, ○, for strict inequalities and with a closed dot, ●, for non-strict inequalities."
+OI.2.GQ.6.LO.6.U.1.K.8,"Inequalities can describe real-world situations, such as
+- speed limits
+- height restrictions
+- age restrictions"
+OI.2.GQ.6.LO.6.U.1.SP.1,Identify an inequality as strict or non-strict.
+OI.2.GQ.6.LO.6.U.1.SP.2,Model inequalities on the number line.
+OI.2.GQ.6.LO.6.U.1.SP.3,"Verify, by substitution, whether a number is a solution of an inequality."
+OI.2.GQ.6.LO.6.U.1.SP.4,Represent a real-world situation as an inequality.
+OI.3,Geometry: The properties of geometric objects are explained through justification and proof.
+OI.3.GQ.7,In what ways can similarity refine reasoning about geometric objects?
+OI.3.GQ.7.LO.7,Students interpret similarity through scale factor.
+OI.3.GQ.7.LO.7.U.1,Similarity of geometric objects can be explained with proportions.
+OI.3.GQ.7.LO.7.U.1.K.1,Geometric objects are similar if one may be obtained from the other by using a scale factor or rotation.
+OI.3.GQ.7.LO.7.U.1.K.2,All circles are similar and all squares are similar.
+OI.3.GQ.7.LO.7.U.1.K.3,Rectangles are similar if they have the same ratio of the longer side to the shorter side.
+OI.3.GQ.7.LO.7.U.1.K.4,"The scale factor is the result of dividing the scale drawing length by the corresponding original object length, when lengths are in the same units."
+OI.3.GQ.7.LO.7.U.1.K.5,"The scale factor represents the ratios of the corresponding lengths in similar geometric objects, resulting in a similar object being
+- enlarged when the scale factor is >1
+- reduced when the scale factor is >0 and <1
+- maintained when the scale factor is 1"
+OI.3.GQ.7.LO.7.U.1.K.6,The scale factor that relates the areas of two similar objects is the square of the scale factor that relates the side lengths.
+OI.3.GQ.7.LO.7.U.1.K.7,"Scale factors appear in real-world situations, such as
+- maps
+- blueprints
+- scale drawings"
+OI.3.GQ.7.LO.7.U.1.SP.1,Determine the scale factor of similar geometric objects.
+OI.3.GQ.7.LO.7.U.1.SP.2,"Determine whether geometric objects are similar, given a scale factor."
+OI.3.GQ.7.LO.7.U.1.SP.3,Solve problems involving areas of similar geometric objects.
+OI.3.GQ.7.LO.7.U.1.SP.4,Solve problems involving scale factor in real-world situations.
+OI.3.GQ.7.LO.7.U.2,Transformations of size can create similar shapes.
+OI.3.GQ.7.LO.7.U.2.K.1,Applying a dilation to a geometric object creates a similar shape.
+OI.3.GQ.7.LO.7.U.2.K.2,A dilation is a transformation of size (non-rigid transformation) determined by a scale factor and a dilation centre.
+OI.3.GQ.7.LO.7.U.2.K.3,"A dilation centre is a fixed point on a plane, from which a geometric object is enlarged or reduced in all directions from the point."
+OI.3.GQ.7.LO.7.U.2.K.4,"The 𝑥- and 𝑥- coordinates of each vertex of a polygon can be multiplied by a scale factor to determine the dilated shape on the Cartesian plane, with a dilation centre at the origin."
+OI.3.GQ.7.LO.7.U.2.K.5,A geometric object and its corresponding dilated shape can be connected by straight lines through the dilation centre.
+OI.3.GQ.7.LO.7.U.2.SP.1,"Dilate a geometric object in the Cartesian plane, given dilation centre (0,0) and a scale factor, using hands-on materials or a digital geometry environment."
+OI.3.GQ.7.LO.7.U.2.SP.2,"Determine the coordinates of the vertices of a similar polygon, given dilation centre (0,0), a scale factor, and the coordinates of the polygon’s vertices."
+OI.3.GQ.7.LO.7.U.2.SP.3,"Verify that geometric objects are similar, using the Cartesian plane or straight lines."
+OI.3.GQ.8,How might multiple geometric relationships influence interpretation of a geometric object?
+OI.3.GQ.8.LO.8,"Students analyze and explain triangle problems, using theorems."
+OI.3.GQ.8.LO.8.U.1,Theorems are proved and can be applied to solve problems.
+OI.3.GQ.8.LO.8.U.1.K.1,A theorem is a fact that is proved by previously known facts.
+OI.3.GQ.8.LO.8.U.1.K.2,"The interior angles in a triangle can be determined by using angle theorems, including
+- the sum of all interior angles in a triangle is 180°
+- the two angles opposite the two equal sides in an isosceles triangle are congruent
+- all interior angles in an equilateral triangle are 60°"
+OI.3.GQ.8.LO.8.U.1.K.3,"The triangle inequality theorem states that for any triangle, the sum of any two side lengths is greater than the length of the third side."
+OI.3.GQ.8.LO.8.U.1.K.4,"If a, b, and c are the lengths of the sides of a triangle, the triangle inequality theorem can be represented as
+- a+b>c
+- a+c>b
+- b+c>a"
+OI.3.GQ.8.LO.8.U.1.K.5,"The longest side of a right triangle, the hypotenuse, is directly opposite the right angle."
+OI.3.GQ.8.LO.8.U.1.K.6,"For any right triangle, the area of the square on the longest side, c, is equal to the sum of the areas of the squares on the two shorter sides, a and b, according to the Pythagorean theorem."
+OI.3.GQ.8.LO.8.U.1.K.7,"The Pythagorean theorem can be represented symbolically as
+- a2 + b2 = c2"
+OI.3.GQ.8.LO.8.U.1.SP.1,"Justify unknown interior angle measures in triangles, using angle theorems."
+OI.3.GQ.8.LO.8.U.1.SP.2,"Prove that a geometric object is a triangle, given the three side lengths."
+OI.3.GQ.8.LO.8.U.1.SP.3,"Prove that a triangle is a right triangle, using hands-on materials or a digital geometry environment."
+OI.3.GQ.8.LO.8.U.1.SP.4,"Determine an unknown side length in a right triangle, given any two side lengths, using the Pythagorean theorem."
+OI.3.GQ.8.LO.8.U.1.SP.5,"Illustrate a problem involving triangles, using hands-on materials or a digital geometry environment."
+OI.3.GQ.8.LO.8.U.1.SP.6,"Solve problems involving triangles, using theorems."
+OI.4,"Measurement: Attributes such as length, area, volume, and angle are quantified by measurement."
+OI.4.GQ.9,In what ways can a 3-D shape be modelled to support its measurement?
+OI.4.GQ.9.LO.9,"Students analyze the surface area of right 3-D shapes, using 2-D models."
+OI.4.GQ.9.LO.9.U.1,Representing 3-D shapes with 2-D models can facilitate calculation of surface area.
+OI.4.GQ.9.LO.9.U.1.K.1,"Polyhedrons, including prisms and pyramids, are 3-D shapes with polygonal faces."
+OI.4.GQ.9.LO.9.U.1.K.2,"Certain 3-D shapes are not polyhedrons, such as cylinders and spheres."
+OI.4.GQ.9.LO.9.U.1.K.3,A pyramid is a polyhedron with triangular lateral faces and one polygonal base opposite a vertex called the apex.
+OI.4.GQ.9.LO.9.U.1.K.4,The surface of a 3-D shape is a composition of faces and curved surfaces that are various 2-D shapes.
+OI.4.GQ.9.LO.9.U.1.K.5,"Each 2-D shape that composes the surface of a 3-D shape has dimensions that are necessary for calculating its area, including
+- base
+- height
+- radius"
+OI.4.GQ.9.LO.9.U.1.K.6,Surface area of a 3-D shape is the sum of the areas of its surface.
+OI.4.GQ.9.LO.9.U.1.K.7,"The curved lateral surface of a cylinder is a rectangle, where the length is equal to the circumference of the circular base."
+OI.4.GQ.9.LO.9.U.1.K.8,A 2-D model may not represent all of the faces and curved surfaces of a 3-D shape.
+OI.4.GQ.9.LO.9.U.1.K.9,"2-D models of 3-D shapes include
+- nets
+- orthographic drawings
+- isometric drawings"
+OI.4.GQ.9.LO.9.U.1.K.10,A net is a 2-D model of the surface of a 3-D shape that can be folded into a 3-D model.
+OI.4.GQ.9.LO.9.U.1.K.11,A 3-D shape can have different nets.
+OI.4.GQ.9.LO.9.U.1.K.12,"An orthographic drawing shows the front, top, and right-side views of a 3-D shape separately."
+OI.4.GQ.9.LO.9.U.1.K.13,"An isometric drawing shows a 3-D shape rotated to show the front, top, and right-side views."
+OI.4.GQ.9.LO.9.U.1.SP.1,Identify if a 3-D shape is a polyhedron.
+OI.4.GQ.9.LO.9.U.1.SP.2,"Calculate the surface area of various polyhedrons and cylinders, using a 2-D model."
+OI.4.GQ.9.LO.9.U.1.SP.3,Solve problems involving surface area of polyhedrons and cylinders.
+OI.4.GQ.9.LO.9.U.1.SP.4,Predict the 3-D shape modelled by a net.
+OI.4.GQ.9.LO.9.U.1.SP.5,Relate each shape on a net to the corresponding face of a 3-D shape.
+OI.4.GQ.9.LO.9.U.1.SP.6,Differentiate between examples and non-examples of nets for a cube.
+OI.4.GQ.9.LO.9.U.1.SP.7,"Justify the choice of net, orthographic drawing, or isometric drawing to represent a 3-D shape."
+OI.4.GQ.9.LO.9.U.1.SP.8,"Recognize the orthographic drawing and isometric drawing related to a given 3-D shape, and vice versa."
+OI.4.GQ.9.LO.9.U.1.SP.9,"Create orthographic drawings for 3-D shapes, with or without a digital geometry environment."
+OI.4.GQ.9.LO.9.U.1.SP.10,Model 3-D shapes related to given orthographic drawings and isometric drawings.
+OI.5,Functions: Functions model relationships between changing quantities in real-world situations.
+OI.5.GQ.10,How can functions contextualize change?
+OI.5.GQ.10.LO.10,Students relate linear functions to equations and graphs.
+OI.5.GQ.10.LO.10.U.1,Attributes of linear functions support connections between graphs and equations.
+OI.5.GQ.10.LO.10.U.1.K.1,Slope is the steepness of a line and has both magnitude and direction.
+OI.5.GQ.10.LO.10.U.1.K.2,"The steeper the slope of a line, the greater its magnitude."
+OI.5.GQ.10.LO.10.U.1.K.3,A horizontal line has a slope of zero.
+OI.5.GQ.10.LO.10.U.1.K.4,A vertical line has an undefined slope.
+OI.5.GQ.10.LO.10.U.1.K.5,A line that slants in an upward direction from left to right indicates a positive slope.
+OI.5.GQ.10.LO.10.U.1.K.6,A line that slants in a downward direction from left to right indicates a negative slope.
+OI.5.GQ.10.LO.10.U.1.K.7,"Slope, m, of a line can be described by the ratio of the rise (vertical displacement) to the run (horizontal displacement) between two points on the line, e.g., between points 𝑃(𝑥1,𝑦1) and 𝑄(𝑥2,𝑦2), slope is represented symbolically as 𝑚 = 𝑦2−𝑦1 / 𝑥2 – 𝑥1"
+OI.5.GQ.10.LO.10.U.1.K.8,A linear function can be represented by a non-vertical straight line or a set of points that follow a non-vertical linear path.
+OI.5.GQ.10.LO.10.U.1.K.9,Slope provides insight into the rate of change modelled by a linear function.
+OI.5.GQ.10.LO.10.U.1.K.10,"Rate of change describes the change in one variable with respect to another variable in a situation modelled by a function, such as
+- constant speed
+- hourly wages
+- filling a container at a constant rate"
+OI.5.GQ.10.LO.10.U.1.K.11,Linear functions have a constant rate of change.
+OI.5.GQ.10.LO.10.U.1.K.12,Rate of change of a linear function can be determined from any representation of the function by using the slope formula.
+OI.5.GQ.10.LO.10.U.1.K.13,"A linear function can be expressed as an equation in slope-intercept form, represented symbolically as 𝑦 = 𝑚𝑥 +𝑏, where 𝑚 is the slope and 𝑏 is the constant and the 𝑦-intercept."
+OI.5.GQ.10.LO.10.U.1.K.14,"The graph of a horizontal line can be expressed as an equation, represented symbolically as 𝑦 = 𝑏."
+OI.5.GQ.10.LO.10.U.1.K.15,"The graph of a vertical line can be expressed as an equation, represented symbolically as 𝑥 = 𝑎, where 𝑎 is a constant."
+OI.5.GQ.10.LO.10.U.1.K.16,"The 𝑥-intercept of a function, indicated by the point at which a graph crosses the 𝑥-axis , is the value of the 𝑥-coordinate when the 𝑦-coordinate is zero."
+OI.5.GQ.10.LO.10.U.1.K.17,"A linear function where 𝑚 ≠ 0 has exactly one 𝑥-intercept, which is the solution of the equation 𝑚𝑥 + 𝑏 = 0."
+OI.5.GQ.10.LO.10.U.1.K.18,"The 𝑦-intercept of a function, indicated by the point at which a graph crosses the 𝑦-axis,  is the value of the 𝑦-coordinate  when the 𝑥-coordinate is zero."
+OI.5.GQ.10.LO.10.U.1.K.19,A linear function has exactly one 𝑦-intercept.
+OI.5.GQ.10.LO.10.U.1.SP.1,"Calculate the slope of a line, given two points on the line."
+OI.5.GQ.10.LO.10.U.1.SP.2,Compare the slopes of various parallel lines.
+OI.5.GQ.10.LO.10.U.1.SP.3,Compare the slopes of various perpendicular lines.
+OI.5.GQ.10.LO.10.U.1.SP.4,Investigate how 𝑏 and 𝑚 in the equation 𝑦 = 𝑚𝑥 + 𝑏 affect the vertical position and steepness of a graph.
+OI.5.GQ.10.LO.10.U.1.SP.5,Prove that the slope of a vertical line is undefined.
+OI.5.GQ.10.LO.10.U.1.SP.6,Distinguish between graphs of linear and non-linear functions.
+OI.5.GQ.10.LO.10.U.1.SP.7,Investigate how variations of slope and 𝑦-intercepts contextually affect the rate of change of a linear function.
+OI.5.GQ.10.LO.10.U.1.SP.8,"Propose a possible real-world situation, with a restricted domain and range, related to a given slope."
+OI.5.GQ.10.LO.10.U.1.SP.9,"Graph a linear function, given slope and one point on the line."
+OI.5.GQ.10.LO.10.U.1.SP.10,Solve problems involving rate of change from various representations modelling real-world situations.
+OI.5.GQ.10.LO.10.U.1.SP.11,Prove that a linear function has exactly one 𝑥-intercept.
+OI.5.GQ.10.LO.10.U.1.SP.12,"Express, as an ordered pair, the 𝑥- and 𝑦-intercepts of a linear function from a graph or equation."
+OI.5.GQ.10.LO.10.U.1.SP.13,"Express a linear function as an equation in slope-intercept form, given the graph."
+OI.5.GQ.10.LO.10.U.1.SP.14,"Graph a linear function, given the equation."
+OI.5.GQ.10.LO.10.U.1.SP.15,Express a horizontal or vertical line as an equation.
+OI.5.GQ.10.LO.10.U.1.SP.16,Graph horizontal and vertical lines.
+OI.6,"Statistics: The science of collecting, analyzing, visualizing, and interpreting data can inform understanding and decision making."
+OI.6.GQ.11,In what ways can representation clarify a distribution?
+OI.6.GQ.11.LO.11,"Students analyze distributions, using shape."
+OI.6.GQ.11.LO.11.U.1,Shape can determine which statistic best typifies a data set.
+OI.6.GQ.11.LO.11.U.1.K.1,A distribution is an ordered data set in which the frequencies of all data values are evident.
+OI.6.GQ.11.LO.11.U.1.K.2,A bar graph is a graphical representation of discrete data that shows the shape of a distribution by using the frequency of data grouped in categories.
+OI.6.GQ.11.LO.11.U.1.K.3,A histogram is a graphical representation of continuous data that shows the shape of a distribution by using the frequency of data grouped in intervals.
+OI.6.GQ.11.LO.11.U.1.K.4,"One graph, e.g., a double bar graph, can be used to compare multiple sets of discrete data."
+OI.6.GQ.11.LO.11.U.1.K.5,"The shape of a distribution is described by the number of modes it has and whether it is symmetric, uniform, or skewed."
+OI.6.GQ.11.LO.11.U.1.K.6,"In a symmetrical distribution of quantitative data, the mean and the median are equal."
+OI.6.GQ.11.LO.11.U.1.K.7,"In a left-skewed distribution of quantitative data, the mean is less than the median and mode."
+OI.6.GQ.11.LO.11.U.1.K.8,"In a right-skewed distribution of quantitative data, the mean is greater than the median and mode."
+OI.6.GQ.11.LO.11.U.1.K.9,"The peaks of bar graphs and histograms represent the modes of a distribution, including unimodal and bimodal distributions."
+OI.6.GQ.11.LO.11.U.1.K.10,"Measures of central tendency, including mean, median, and mode, are statistics that describe the centre of a distribution."
+OI.6.GQ.11.LO.11.U.1.K.11,Measures of central tendency can describe typical data values for a data set.
+OI.6.GQ.11.LO.11.U.1.SP.1,Describe the shape of distributions.
+OI.6.GQ.11.LO.11.U.1.SP.2,Explain the effects of changing the size of the intervals in a histogram on the interpretation of the shape of a distribution.
+OI.6.GQ.11.LO.11.U.1.SP.3,"Represent distributions, using histograms with equal intervals."
+OI.6.GQ.11.LO.11.U.1.SP.4,Compare the shape of distributions from two different samples of the same population.
+OI.6.GQ.11.LO.11.U.1.SP.5,"Justify the choice of mean, median, or mode to typify a data set for distributions of various shapes."
+OI.6.GQ.11.LO.11.U.2,Circle graphs communicate categorical data efficiently.
+OI.6.GQ.11.LO.11.U.2.K.1,A circle graph is a graphical representation of categorical data that shows the distribution through proportional sections in a circle.
+OI.6.GQ.11.LO.11.U.2.K.2,"In a circle graph, the number of data points in each category corresponds to a proportional section of 360 degrees."
+OI.6.GQ.11.LO.11.U.2.K.3,A circle graph can use percentages to indicate the number of data points in each section.
+OI.6.GQ.11.LO.11.U.2.SP.1,"Represent data, using a circle graph."
+OI.6.GQ.11.LO.11.U.2.SP.2,Analyze circle graphs to solve problems.
+OI.7,Probability: Modelling randomness and quantifying the likelihood of events can inform decision making where uncertainty exists.
+OI.7.GQ.12,In what ways can multiple events affect probability?
+OI.7.GQ.12.LO.12,Students interpret probability of independent and dependent events.
+OI.7.GQ.12.LO.12.U.1,The occurrence of one event can affect the probability of another.
+OI.7.GQ.12.LO.12.U.1.K.1,"Sample space can be represented in various ways, including
+- set notation
+- lists
+- tables"
+OI.7.GQ.12.LO.12.U.1.K.2,"Set notation can represent a sample space, 𝑆, as an ordered or unordered list of all possible outcomes inside braces, e.g., 𝑆 = { 𝐻,𝑇 }represents the sample space for flipping a coin."
+OI.7.GQ.12.LO.12.U.1.K.3,A compound event can consist of two or more events.
+OI.7.GQ.12.LO.12.U.1.K.4,"The sample space of compound events can be represented with various models, including
+- tree diagrams
+- area models
+- set notation"
+OI.7.GQ.12.LO.12.U.1.K.5,Two events are independent if the occurrence of one event does not affect the occurrence of the other.
+OI.7.GQ.12.LO.12.U.1.K.6,Two events are dependent if the occurrence of one event affects the occurrence of the other.
+OI.7.GQ.12.LO.12.U.1.SP.1,Determine whether two events are independent or dependent.
+OI.7.GQ.12.LO.12.U.1.SP.2,Determine the probability of two or more independent events by modelling the sample space.
+OI.7.GQ.12.LO.12.U.1.SP.3,Determine the probability of two dependent events by modelling the sample space.
